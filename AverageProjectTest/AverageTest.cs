@@ -5,7 +5,7 @@ namespace AverageProjectTest
 {
     /// <summary>
     /// Test class for the Average calculator
-    /// Tests all scenarios including addition, average calculation, count, and reset functionality
+    /// Tests all scenarios including addition, average calculation and (optional) reset functionality
     /// </summary>
     [TestFixture]
     public class AverageTest

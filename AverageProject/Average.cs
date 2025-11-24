@@ -17,9 +17,9 @@ namespace AverageConsoleProject
         private double _sum;
 
         /// <summary>
-        /// This will store the count of numbers added
+        /// This will store the count of numbers added (long to handle large input)
         /// </summary>
-        private int _count;
+        private long _count;
 
         /// <summary>
         /// Adds a number to the sum and increments the count
